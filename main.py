@@ -127,4 +127,4 @@ async def sendticketmessage(ctx): # command name
     view.add_item(buttoncreate) # add a button
     await channel.send(embed=embed, view=view) # send the embed and the button
 
-bot.run("OTQ2ODQ0MjIxMDc4Mzg4NzU3.YhknZQ.M1I7Mxkys1oLKS9iZWSAh0S3-wI") # paste the token in here!
+bot.run("token") # paste the token in here!
