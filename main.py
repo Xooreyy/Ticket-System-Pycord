@@ -1,3 +1,6 @@
+# WARNING! Permissions aren't setted. So you need to add them!
+
+
 # Welcome to my mini pycord Ticket System!
 # first you need to install dhooks with "pip install dhooks"
 # then you want to download Pycord with the command "pip install py-cord==2.0.0b4"
